@@ -1,2 +1,2 @@
 # volunteers
-Sistema de voluntários desenvolvido utilizando laravel.
+Sistema de voluntários desenvolvido para estudos utilizando laravel.
